@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.christian</groupId>
-	<artifactId>tickets</artifactId>
+	<artifactId>tickets_syst</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tickets</name>
-	<description>Vous êtes chargé de développer un système de gestion de tickets simple utilisant Java et Spring Framework. Le système doit permettre à un utilisateur de créer, lire, mettre à jour, affecter et supprimer des tickets. Chaque ticket doit avoir un titre, une description, un utilisateur assigné et un statut (en cours, terminé, annulé). Pour l&apos;utilisateur, on a juste besoin d&apos;un username et d&apos;un email. Un utilisateur peut avoir plusieurs tickets et un ticket ne peut être affecté qu&apos;à un utilisateur</description>
+	<name>tickets_syst</name>
+	<description>Vous êtes chargé de développer un système de gestion de tickets simple utilisant Java et Spring Framework. Le système doit permettre à un utilisateur de créer, lire, mettre à jour, affecter et supprimer des tickets. Chaque ticket doit avoir un titre, une description, un utilisateur assigné et un statut (en cours, terminé, annulé). Pour l&amp;apos;utilisateur, on a juste besoin d&amp;apos;un username et d&amp;apos;un email. Un utilisateur peut avoir plusieurs tickets et un ticket ne peut être affecté qu&amp;apos;à un utilisateur&lt;/description&gt; 	</description>
 	<url/>
 	<licenses>
 		<license/>
