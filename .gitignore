@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+/data/tickets.mv.db
+/data/tickets.trace.db
+
 ### STS ###
 .apt_generated
 .classpath
